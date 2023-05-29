@@ -2,8 +2,9 @@ import React from 'react'
 
 function Education() {
   return (
-    <div>
+    <div >
       <div className="engineering">
+        <span></span>
         <h1>New Horizon College of Engineering</h1>
         <h2>i have done my enginnering in Mechanical Engineering in the year 2019 with 65%.</h2>
       </div>
